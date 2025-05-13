@@ -35,7 +35,7 @@ This project analyzes passenger reviews from British Airways flights to uncover 
 
 ## 🖼️ Dashboard Preview
 
-![Full Dashboard](dashboard.png)
+![Full Dashboard](https://github.com/shirshitrit/BA-Reviews--Tableau-project/blob/main/Dashboard.png))
 
 ---
 
@@ -52,9 +52,6 @@ Aircraft rating by Economy and Premium Economy:
    
    <img src="aircraft_rating_economy_premium.png" alt="Aircraft Insight" width="500"/>
 
-
-   ![Aircraft Insight](aircraft_rating_business_firstclass.png)
-   ![Aircraft Insight](aircraft_rating_economy_premium.png)
 
 
 3. **Europe dominates the review volume**  
