@@ -35,7 +35,7 @@ This project analyzes passenger reviews from British Airways flights to uncover 
 
 ## 🖼️ Dashboard Preview
 
-![Full Dashboard](https://github.com/shirshitrit/BA-Reviews--Tableau-project/blob/main/Dashboard.png))
+![Full Dashboard](https://github.com/shirshitrit/BA-Reviews--Tableau-project/blob/main/Dashboard.png)
 
 ---
 
@@ -56,7 +56,7 @@ Aircraft rating by Economy and Premium Economy:
 
 3. **Europe dominates the review volume**  
    Most passenger reviews come from **European countries**, indicating that travelers from this region are the most active in providing feedback.  
-   ![Review Volume Insight](insight_review_distribution.png)
+   ![Review Volume Insight]([insight_review_distribution.png](https://github.com/shirshitrit/BA-Reviews--Tableau-project/blob/main/number_of_reviews_europe.png))
 
 4. **Food satisfaction varies by travel type**  
    **Couples** and **families** give consistently higher ratings for **food**, while **solo travelers** tend to rate it lower.  
