@@ -22,17 +22,6 @@ This project analyzes passenger reviews from British Airways flights to uncover 
 
 ---
 
-## 📁 Files Included
-
-- `ba_reviews.csv` – Passenger review data  
-- `countries.csv` – Metadata with country and region info  
-- `dashboard.png` – Full dashboard screenshot  
-- `insight_aircraft_rating.png` – Boeing 777-200 ratings by class  
-- `insight_review_distribution.png` – Review volume by continent  
-- `insight_food_by_traveltype.png` – Food ratings by travel type
-
----
-
 ## 🖼️ Dashboard Preview
 
 ![Full Dashboard](https://github.com/shirshitrit/BA-Reviews--Tableau-project/blob/main/Dashboard.png)
