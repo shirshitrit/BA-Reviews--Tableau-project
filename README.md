@@ -1,4 +1,3 @@
-# BA-Reviews--Tableau-project
 # ✈️ British Airways Reviews Dashboard (Tableau Project)
 
 This project analyzes passenger reviews from British Airways flights to uncover insights about customer experience across different flight classes, regions, and travel types.
@@ -43,7 +42,7 @@ This project analyzes passenger reviews from British Airways flights to uncover 
 ## 📊 Key Insights
 
 1. **Aircraft type impacts experience differently by class**  
-   The *Boeing 777-200* tends to receive higher ratings from **First Class** and **Premium Economy** passengers, while **Economy** and **Business** class passengers report a less favorable experience on the same aircraft.  
+   The *Boeing 747-400* tends to receive higher ratings from **First Class** and **Business** passengers, while **Economy** and **Premium Economy** class passengers report a less favorable experience on the same aircraft.  
    ![Aircraft Insight](insight_aircraft_rating.png)
 
 2. **Europe dominates the review volume**  
