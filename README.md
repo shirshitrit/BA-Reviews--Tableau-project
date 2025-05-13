@@ -61,8 +61,15 @@ Aircraft rating by Economy and Premium Economy:
 
 
 5. **Food satisfaction varies by travel type**  
-   **Couples** and **families** give consistently higher ratings for **food**, while **solo travelers** tend to rate it lower.  
-   ![Food Insight](insight_food_by_traveltype.png)
+   **Couples** and **families** give consistently higher ratings for **food**, while **solo travelers** tend to rate it lower.
+
+   Couples and Families Food Reviews:
+
+   <img src="food_rating_family_couple_travelers.png" alt="Reviews" width="500"/>
+
+   Solo Food Reviews:
+
+   <img src="food_rating_solo_travelers.png" alt="Reviews" width="500"/>
 
 ---
 
