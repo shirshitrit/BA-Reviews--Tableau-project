@@ -26,7 +26,7 @@ This project analyzes passenger reviews from British Airways flights to uncover 
 
 - `ba_reviews.csv` – Passenger review data  
 - `countries.csv` – Metadata with country and region info  
-- `dashboard_full.png` – Full dashboard screenshot  
+- `dashboard.png` – Full dashboard screenshot  
 - `insight_aircraft_rating.png` – Boeing 777-200 ratings by class  
 - `insight_review_distribution.png` – Review volume by continent  
 - `insight_food_by_traveltype.png` – Food ratings by travel type
@@ -35,7 +35,7 @@ This project analyzes passenger reviews from British Airways flights to uncover 
 
 ## 🖼️ Dashboard Preview
 
-![Full Dashboard](dashboard_full.png)
+![Full Dashboard](dashboard.png)
 
 ---
 
@@ -43,13 +43,15 @@ This project analyzes passenger reviews from British Airways flights to uncover 
 
 1. **Aircraft type impacts experience differently by class**  
    The *Boeing 747* tends to receive higher ratings from **First Class** and **Business** passengers, while **Economy** and **Premium Economy** class passengers report a less favorable experience on the same aircraft.  
-   ![Aircraft Insight](insight_aircraft_rating.png)
+   ![Aircraft Insight](aircraft_rating_business_firstclass.png)
+   ![Aircraft Insight](aircraft_rating_economy_premiumeconomy.png)
 
-2. **Europe dominates the review volume**  
+
+3. **Europe dominates the review volume**  
    Most passenger reviews come from **European countries**, indicating that travelers from this region are the most active in providing feedback.  
    ![Review Volume Insight](insight_review_distribution.png)
 
-3. **Food satisfaction varies by travel type**  
+4. **Food satisfaction varies by travel type**  
    **Couples** and **families** give consistently higher ratings for **food**, while **solo travelers** tend to rate it lower.  
    ![Food Insight](insight_food_by_traveltype.png)
 
