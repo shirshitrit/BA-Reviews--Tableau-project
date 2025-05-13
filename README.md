@@ -44,7 +44,7 @@ This project analyzes passenger reviews from British Airways flights to uncover 
 1. **Aircraft type impacts experience differently by class**  
    The *Boeing 747* tends to receive higher ratings from **First Class** and **Business** passengers, while **Economy** and **Premium Economy** class passengers report a less favorable experience on the same aircraft.  
    ![Aircraft Insight](aircraft_rating_business_firstclass.png)
-   ![Aircraft Insight](aircraft_rating_economy_premiumeconomy.png)
+   ![Aircraft Insight](aircraft_rating_economy_premium.png)
 
 
 3. **Europe dominates the review volume**  
